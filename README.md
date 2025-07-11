@@ -26,5 +26,6 @@ Working on SmartNotes helped me understand the complexities involved in real-tim
 This project played a crucial role in enhancing my coding skills and deepening my understanding of both frontend and backend technologies in a real-world scenario.
 
 # OUTPUT OF THE TASK :
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/31718201-5d85-4bf5-9517-9f0f3538f46c" />
 
-
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a69a8114-f900-4ec8-b067-be368619ef95" />
